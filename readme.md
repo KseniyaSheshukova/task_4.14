@@ -18,6 +18,13 @@ LICENSE: [MIT](./license.md)
    - [git status](./status.md)
    - [git help](./help.md)
    - [git clone](./clone.md)
+3. Работа с удаленным репозиторием
+   - [git remote add](./remote_add.md)
+   - [git fetch](./fetch.md)
+   - [git pull](./pull.md)
+   - [git push](./push.md)
+
+
 
 
    ---
