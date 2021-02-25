@@ -9,7 +9,7 @@ LICENSE: [MIT](./license.md)
 ---
 ### СОДЕРДЖАНИЕ
 
-1. Основы GIT
+1. [Что такое GIT и зачем он нужен](./git_info.md)
 2. Основные операции в GIT
    1. [git config](./config.md)
    2. [git init](./init.md)
