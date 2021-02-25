@@ -15,6 +15,10 @@ LICENSE: [MIT](./license.md)
    2. [git init](./init.md)
    3. [git add](./add.md)
    4. [git commit](./commit.md)
+   5. [git status](./status.md)
+   6. [git help](./help.md)
+   7. [git clone]()
+
 
    ---
 
