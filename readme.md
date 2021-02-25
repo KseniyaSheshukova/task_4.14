@@ -11,13 +11,13 @@ LICENSE: [MIT](./license.md)
 
 1. [Что такое GIT и зачем он нужен](./git_info.md)
 2. Основные операции в GIT
-   1. [git config](./config.md)
-   2. [git init](./init.md)
-   3. [git add](./add.md)
-   4. [git commit](./commit.md)
-   5. [git status](./status.md)
-   6. [git help](./help.md)
-   7. [git clone]()
+   - [git config](./config.md)
+   - [git init](./init.md)
+   - [git add](./add.md)
+   - [git commit](./commit.md)
+   - [git status](./status.md)
+   - [git help](./help.md)
+   - [git clone](./clone.md)
 
 
    ---
